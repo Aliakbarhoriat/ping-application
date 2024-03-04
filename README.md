@@ -1,3 +1,6 @@
+![Example Image](sample.png)
+
+
 The Ping Application is a sleek, minimalistic tool designed for monitoring network connectivity and performance in real-time. Built with Python and Tkinter, it offers a user-friendly interface that allows users to easily ping any IP address or hostname, providing immediate visual feedback on the latency and availability of the target.
 Features:
 
